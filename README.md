@@ -8,7 +8,7 @@ This project demonstrates strong frontend development skills, React component ar
 ## 🚀 Live Demo
 
 👉 [https://mytodo-react-application.netlify.app/](https://mytodo-react-application.netlify.app/)  
-*(Replace this with your actual Netlify/Vercel deployment link)*
+
 
 ---
 
