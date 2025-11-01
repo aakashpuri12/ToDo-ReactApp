@@ -68,3 +68,10 @@ This project demonstrates strong frontend development skills, React component ar
    ```bash
      http://localhost:5173/
    ```
+If Lucide React is not installed then use this
+   ```bash
+   npm install lucide-react
+   ```
+
+
+
