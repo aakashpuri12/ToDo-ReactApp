@@ -1,12 +1,70 @@
-# React + Vite
+# 📝 ToDo React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, modern **To-Do List Application** built using **React + Vite + Tailwind CSS**.  
+This project demonstrates strong frontend development skills, React component architecture, state management with hooks, and a visually appealing responsive UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+👉 [https://mytodo-react-application.netlify.app/](https://mytodo-react-application.netlify.app/)  
+*(Replace this with your actual Netlify/Vercel deployment link)*
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technology |
+|-----------|-------------|
+| **Frontend Framework** | React (with Vite) |
+| **Styling** | Tailwind CSS |
+| **Icons** | Lucide React |
+| **Build Tool** | Vite |
+| **Version Control** | Git & GitHub |
+| **Deployment** | Netlify |
+
+---
+
+## ✨ Features
+
+- ✅ Add new tasks  
+- ✏️ Edit existing tasks  
+- 🗑️ Delete individual tasks  
+- 🧹 Delete all completed tasks or all tasks  
+- 🔘 Filter by **All / Done / Todo**  
+- 💾 State managed using React Hooks (`useState`)  
+- 🎨 Styled with Tailwind CSS for responsive design  
+- ⚡ Built using Vite for blazing-fast performance  
+
+---
+
+## 📸 Screenshots
+
+### Main Interface
+
+<img width="1310" height="896" alt="Screenshot 2025-11-01 223430" src="https://github.com/user-attachments/assets/a374e0e7-0e6e-420b-a939-93fb2ac7041a" />
+
+
+---
+
+---
+
+## 🧑‍💻 How to Run Locally
+
+1. **Clone the repository**
+   ```bash
+     git clone https://github.com/aakashpuri12/ToDo-ReactApp.git
+     cd ToDo-ReactApp
+   ```
+2. **Install dependencies**
+   ```bash
+     npm install
+    ```
+3. **Run the app**
+   ```bash
+     npm run dev
+    ```
+4. **View in browser**
+   ```bash
+     http://localhost:5173/
+   ```
